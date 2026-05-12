@@ -25,3 +25,7 @@ A fully interactive e-commerce conversion funnel analysis dashboard built with P
 4. Place `funnel_data.csv` in `data/` folder
 5. `python app.py`
 6. Open `http://localhost:8050`
+
+## Screenshot
+
+<img width="1919" height="972" alt="Screenshot 2026-05-06 084031" src="https://github.com/user-attachments/assets/290f34f5-2276-43e8-a573-e01865aba8f6" />
